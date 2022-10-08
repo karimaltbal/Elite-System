@@ -19,7 +19,7 @@ The system is multilingual consisting of one language (Arabic and English).
 Customer can see:
 1: Knowing the full menu offered by the restaurant, including all types of food, drinks, salads, fruits, etc.
 2: The latest events that the restaurant can offer, whether for large institutions or birthday parties, etc.
-3: Follow up on the news and offers offered by the restaurant.
+3: Follow up on the news and offers offered by the restaurant..
 
 The administration can manage all these things:
 1: You can create, modify and delete any meal and add it to its section in the list.
